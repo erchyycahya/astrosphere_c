@@ -1,0 +1,8 @@
+# 2. INPUT ANGKA 1 S/D 10
+# C. Angka 2,10
+
+ngka = [2,10]
+
+for i in range(1,11) :
+    if i == 2 or i == 10 :
+        print(i)
